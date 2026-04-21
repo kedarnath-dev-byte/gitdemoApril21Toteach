@@ -1,5 +1,8 @@
 
 file 1 
 first entry
+Modified file
+
+file 1 modified
 
 
